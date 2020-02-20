@@ -1,0 +1,30 @@
+<ValCurs Date="19.02.2020" name="Foreign Currency Market">
+<Valute ID="R01717">
+<NumCode>860</NumCode>
+<CharCode>UZS</CharCode>
+<Nominal>10000</Nominal>
+<Name>Узбекских сумов</Name>
+<Value>66,8657</Value>
+</Valute>
+<Valute ID="R01720">
+<NumCode>980</NumCode>
+<CharCode>UAH</CharCode>
+<Nominal>10</Nominal>
+<Name>Украинских гривен</Name>
+<Value>26,1004</Value>
+</Valute>
+<Valute ID="R01760">
+<NumCode>203</NumCode>
+<CharCode>CZK</CharCode>
+<Nominal>10</Nominal>
+<Name>Чешских крон</Name>
+<Value>27,8046</Value>
+</Valute>
+<Valute ID="R01770">
+<NumCode>752</NumCode>
+<CharCode>SEK</CharCode>
+<Nominal>10</Nominal>
+<Name>Шведских крон</Name>
+<Value>65,4949</Value>
+</Valute>
+</ValCurs>
